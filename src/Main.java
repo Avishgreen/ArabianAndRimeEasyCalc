@@ -1,5 +1,5 @@
 /*
-test coment for marging
+test comment for marging
 */
 
 import Calc.Calc;
